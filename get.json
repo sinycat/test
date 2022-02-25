@@ -1,6 +1,17 @@
 {
-    "name": "Thor's hammer",
-    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "attributes":[
+        {
+            "trait_type":"性格",
+            "value":"内向"
+        },
+          {
+            "trait_type":"颜值",
+            "value":"帅哥"
+        }
+        
+    ],
+    "name": "大哥大哥大哥",
+    "external_url":"http://github.com",
+    "description": "我是币圈老韭菜了",
     "image": "https://github.com/sinycat/image1/blob/main/manzanillo.jpg",
-    "strength": 20
 }
